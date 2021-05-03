@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="empty">Empty</string>
+    <string name="random_jokes">Random Jokes</string>
+    <string name="ok">Ok</string>
+    <string name="counter">Counter:</string>
+</resources>
